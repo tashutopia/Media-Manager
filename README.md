@@ -11,6 +11,9 @@
   - correct dates
   - original-deleted data
   - new phone data
+  - tashugupta@gmail.com
+  - tashu.1.6.iphone@gmail.com
+  - tashu.11.6.iphone@gmail.com
 
 - hard drive:
 
