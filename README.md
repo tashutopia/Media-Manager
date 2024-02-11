@@ -28,4 +28,10 @@
 
 ### ulimate goal
 
--
+- remote server with all my pictures
+- one step to upload phone pics to server
+
+### next steps
+
+1. download google photos
+2. experiment with file format
