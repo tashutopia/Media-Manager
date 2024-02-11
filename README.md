@@ -14,6 +14,7 @@
   - tashugupta@gmail.com
   - tashu.1.6.iphone@gmail.com
   - tashu.11.6.iphone@gmail.com
+  - tashu.2.11.iphone@gmail.com
 
 - hard drive:
 
