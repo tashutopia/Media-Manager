@@ -7,14 +7,15 @@
 ### understanding the data:
 
 - google photos:
-  --- correct dates
-  --- original - deleted data
-  --- new phone data
+
+  - correct dates
+  - original-deleted data
+  - new phone data
 
 - hard drive:
-  --- some incorrect dates
-  --- original data
-  --- some missing data
+  - some incorrect dates
+  - original data
+  - some missing data
 
 ### cases:
 
@@ -23,3 +24,7 @@
 3. on both & correct date
 4. on both & incorrect date
 5. only on google photos
+
+### ulimate goal
+
+-
